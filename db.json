@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "asdasd",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 211,
+      "comment": "asdsa",
+      "date": "2022-06-13T18:15:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "www",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": 111,
+      "comment": "asdsadsa",
+      "date": "2022-06-08T18:15:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
